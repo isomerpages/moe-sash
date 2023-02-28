@@ -8,3 +8,8 @@ links:
     collection: example-folder
   - title: School Canteen Ads
     collection: school-canteen-ads
+  - title: Canteen
+    url: /permalink
+    sublinks:
+      - title: Canteen FAQ
+        url: https://www.moe.gov.sg/canteens
