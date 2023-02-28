@@ -7,7 +7,4 @@ links:
   - title: Example Folder
     collection: example-folder
   - title: School Canteen Ads
-    url: /permalink
-    sublinks: []
-  - title: School Canteen Ads
     collection: school-canteen-ads
