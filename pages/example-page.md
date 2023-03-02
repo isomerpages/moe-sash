@@ -8,7 +8,10 @@ This is an example page, school selection criteria can be included here:
 2. ...
 3. ...
 
-Find attached file [here](https://www.moe.gov.sg/canteens).
+Find link here [here](https://www.moe.gov.sg/canteens).
+
+Please accesss [Test file](/files/Test%20file.pdf) here.
+
+
 
 ![](/images/favicon-isomer.ico)
-
