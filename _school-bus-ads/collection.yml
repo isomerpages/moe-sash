@@ -2,7 +2,6 @@ collections:
   school-bus-ads:
     output: true
     order:
-      - School Bus URL.md
       - School Bus Results/School Bus Results.md
       - School Bus Results/.keep
       - School Bus Ads/.keep
