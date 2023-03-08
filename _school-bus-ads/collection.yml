@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  school-bus-ads:
     output: true
     order:
       - folder-page.md
