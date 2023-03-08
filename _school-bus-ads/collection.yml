@@ -2,6 +2,6 @@ collections:
   school-bus-ads:
     output: true
     order:
-      - example-subfolder/School Bus Results.md
-      - example-subfolder/.keep
-      - example-subfolder/School Bus Ads.md
+      - School Bus Ads/School Bus Results.md
+      - School Bus Ads/.keep
+      - School Bus Ads/School Bus Ads.md
