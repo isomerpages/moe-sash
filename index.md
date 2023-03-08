@@ -9,14 +9,21 @@ sections:
   - hero:
       background: /images/bannerscas2.jpg
       title: School Admin Services Hub
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      key_highlights:
+        - title: School Canteen Advertisements
+          description: ""
+          url: /schcanteenads/
+        - title: School Bus ADVertisements
+          description: ""
+          url: example-folder/example-subfolder/subfolder-page/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: School Canteen Selection Process
+      subtitle: More details
+      button: More Details
+      url: https://www.moe.gov.sg/canteens
+  - infobar:
+      title: School Bus Selection Process
+      subtitle: More Details
+      button: More Details
+      url: https://www.moe.gov.sg/school-bus-services
 ---
-
