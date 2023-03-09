@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: School Canteen Advertisements
           description: ""
-          url: /schcanteenads/
+          url: /canteenlist/
         - title: School Bus ADVertisements
           description: ""
           url: example-folder/example-subfolder/subfolder-page/
