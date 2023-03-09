@@ -2,4 +2,5 @@ collections:
   school-canteen-ads:
     output: true
     order:
+      - Canteen.md
       - School Canteen Advertisements.md
