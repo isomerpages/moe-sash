@@ -9,12 +9,12 @@ links:
         url: https://www.moe.gov.sg/canteens
       - title: FAQ
         url: https://www.moe.gov.sg/faq?categoryid=8B49CE9A2D03495FB7AEF22762F0F579
+  - title: School Bus Ads (Sub)
+    url: /schbusads
+    sublinks: []
   - title: School Bus Ads
     collection: school-bus-ads
   - title: School Canteen Ads
     collection: school-canteen-ads
   - title: Canteen FAQ
     url: https://www.moe.gov.sg/canteens
-  - title: School Bus Ads (Sub)
-    url: /schbusads
-    sublinks: []
