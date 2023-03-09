@@ -1,7 +1,7 @@
 logo: /images/moe-logo.png
 links:
-  - title: School Canteen Ads (sub-menu)
-    url: /schcanteenads
+  - title: School Canteen Ads
+    url: /canteenlist
     sublinks:
       - title: Canteen List
         url: /canteenlist
@@ -9,7 +9,7 @@ links:
         url: https://www.moe.gov.sg/canteens
       - title: FAQ
         url: https://www.moe.gov.sg/faq?categoryid=8B49CE9A2D03495FB7AEF22762F0F579
-  - title: School Bus Ads (Sub)
+  - title: School Bus Ads
     url: /schbusads
     sublinks: []
   - title: Canteen FAQ
