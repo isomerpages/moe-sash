@@ -7,11 +7,11 @@ links:
   - title: School Canteen Ads (sub-menu)
     url: /schcanteenads
     sublinks:
+      - title: Canteen List
+        url: /canteenlist
       - title: Selection Criteria and Process
         url: https://www.moe.gov.sg/canteens
       - title: FAQ
         url: https://www.moe.gov.sg/faq?categoryid=8B49CE9A2D03495FB7AEF22762F0F579
-      - title: Canteen List
-        url: /canteenlist
   - title: Canteen FAQ
     url: https://www.moe.gov.sg/canteens
