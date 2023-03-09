@@ -11,6 +11,8 @@ links:
         url: https://www.moe.gov.sg/faq?categoryid=8B49CE9A2D03495FB7AEF22762F0F579
   - title: School Bus Ads
     url: /schbusads
-    sublinks: []
+    sublinks:
+      - title: Selection Criteria
+        url: https://www.moe.gov.sg/school-bus-services
   - title: Canteen FAQ
     url: https://www.moe.gov.sg/canteens
