@@ -1,10 +1,10 @@
 logo: /images/moe-logo.png
 links:
   - title: School Canteen
-    url: /canteenlist
+    url: /schcanteenads/
     sublinks:
-      - title: Canteen List
-        url: /canteenlist
+      - title: Canteen Advertisements
+        url: /schcanteenads/
       - title: Selection Criteria and Process
         url: https://www.moe.gov.sg/canteens
       - title: FAQ
