@@ -18,12 +18,10 @@ sections:
           url: /schbusads/
   - infobar:
       title: School Canteen Selection Process
-      subtitle: More details
       button: More Details
       url: https://www.moe.gov.sg/canteens
   - infobar:
       title: School Bus Selection Process
-      subtitle: More Details
       button: More Details
       url: https://www.moe.gov.sg/school-bus-services
 ---
