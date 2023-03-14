@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2rf20mnuqi9qi.amplifyapp.com
 prod: https://master.d2rf20mnuqi9qi.amplifyapp.com
 shareicon: /images/moe-logo.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
