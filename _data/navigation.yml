@@ -10,7 +10,7 @@ links:
       - title: FAQ
         url: https://www.moe.gov.sg/faq?categoryid=8B49CE9A2D03495FB7AEF22762F0F579
       - title: School Site - Canteen Ad
-        url: /schsite_canteenad
+        url: /schsite-canteenad
   - title: School Bus
     url: /schbusads
     sublinks:
