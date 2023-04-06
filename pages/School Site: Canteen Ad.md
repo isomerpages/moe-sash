@@ -4,15 +4,15 @@ permalink: /schsite-canteenad/
 description: ""
 ---
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 20.1pt 0cm 5.4pt">
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
-  <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;mso-border-alt:
+  <td width="169" style="width:127.1pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   color:#3B3A3B">Sc</span></b><b><span style="font-size:11.0pt;font-family:
   &quot;Open Sans&quot;,sans-serif;color:#3B3A3B">hool Name</span></b></p>
   </td>
-  <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;border-left:
+  <td width="680" style="width:18.0cm;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
@@ -20,13 +20,13 @@ description: ""
   </td>
  </tr>
  <tr style="mso-yfti-irow:1">
-  <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;border-top:
+  <td width="169" style="width:127.1pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#3B3A3B">Address and Contact</span></b></p>
   </td>
-  <td width="301" style="width:225.4pt;border-top:none;border-left:none;
+  <td width="680" style="width:18.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -38,13 +38,13 @@ description: ""
   </td>
  </tr>
  <tr style="mso-yfti-irow:2">
-  <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;border-top:
+  <td width="169" style="width:127.1pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#3B3A3B">How to get there?</span></b></p>
   </td>
-  <td width="301" style="width:225.4pt;border-top:none;border-left:none;
+  <td width="680" style="width:18.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -57,13 +57,13 @@ description: ""
   </td>
  </tr>
  <tr style="mso-yfti-irow:3">
-  <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;border-top:
+  <td width="169" style="width:127.1pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#3B3A3B">Type of Stall</span></b></p>
   </td>
-  <td width="301" style="width:225.4pt;border-top:none;border-left:none;
+  <td width="680" style="width:18.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -72,13 +72,13 @@ description: ""
   </td>
  </tr>
  <tr style="mso-yfti-irow:4">
-  <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;border-top:
+  <td width="169" style="width:127.1pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#3B3A3B">Requirements</span></b></p>
   </td>
-  <td width="301" style="width:225.4pt;border-top:none;border-left:none;
+  <td width="680" style="width:18.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -132,13 +132,13 @@ description: ""
   </td>
  </tr>
  <tr style="mso-yfti-irow:5">
-  <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;border-top:
+  <td width="169" style="width:127.1pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#3B3A3B">Application Procedure</span></b></p>
   </td>
-  <td width="301" style="width:225.4pt;border-top:none;border-left:none;
+  <td width="680" style="width:18.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -160,26 +160,18 @@ description: ""
   7.5pt;margin-left:0cm;text-align:justify"><span style="font-size:9.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B">2. Attached the following
   documents together with the application:</span></p>
+  <ul style="margin-top:0cm" type="disc">
+   <li class="MsoNormal" style="color:#3B3A3B;margin-top:5.0pt;margin-bottom:
+       7.5pt;text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Photocopy of the
+       NRIC (front and back)</span></li>
+   <li class="MsoNormal" style="color:#3B3A3B;margin-top:5.0pt;margin-bottom:
+       7.5pt;text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">List of proposed
+       menu and pricing for all items</span></li>
+   <li class="MsoNormal" style="color:#3B3A3B;margin-top:5.0pt;margin-bottom:
+       7.5pt;text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Photocopy of
+       relevant certificates such as Basic Food Hygiene Course, etc</span></li>
+  </ul>
   </div>
-  <p class="MsoNormal" style="margin-top:5.0pt;margin-right:0cm;margin-bottom:
-  5.0pt;margin-left:47.25pt;text-align:justify;text-indent:-18.0pt;mso-list:
-  l0 level1 lfo1;tab-stops:list 36.0pt;background:whitesmoke"><!--[if !supportLists]--><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#3B3A3B"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;"> </span></span></span><!--[endif]--><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B;
-  background:white">Photocopy of the NRIC (front and back)</span><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B;
-  background:whitesmoke"></span></p>
-  <p class="MsoNormal" style="margin-top:5.0pt;margin-right:0cm;margin-bottom:
-  5.0pt;margin-left:47.25pt;text-align:justify;text-indent:-18.0pt;mso-list:
-  l0 level1 lfo1;tab-stops:list 36.0pt;background:whitesmoke"><!--[if !supportLists]--><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#3B3A3B"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;"> </span></span></span><!--[endif]--><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B;
-  background:white">List of proposed menu and pricing for all items</span><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B;
-  background:whitesmoke"></span></p>
-  <p class="MsoNormal" style="margin-top:5.0pt;margin-right:0cm;margin-bottom:
-  5.0pt;margin-left:47.25pt;text-align:justify;text-indent:-18.0pt;mso-list:
-  l0 level1 lfo1;tab-stops:list 36.0pt;background:whitesmoke"><!--[if !supportLists]--><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#3B3A3B"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;"> </span></span></span><!--[endif]--><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B;
-  background:white">Photocopy of relevant certificates such as Basic Food
-  Hygiene Course, etc</span><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#3B3A3B;background:whitesmoke"></span></p>
   <div style="margin-top:5.0pt;margin-bottom:7.5pt">
   <p class="MsoNormal" style="text-align:justify"><span style="font-size:9.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B">3. Submit the completed
@@ -207,14 +199,14 @@ description: ""
   </td>
  </tr>
  <tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes">
-  <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;border-top:
+  <td width="169" style="width:127.1pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#3B3A3B">Application F</span></b><b><span style="font-size:9.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black">orm</span></b></p>
   </td>
-  <td width="301" style="width:225.4pt;border-top:none;border-left:none;
+  <td width="680" style="width:18.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
