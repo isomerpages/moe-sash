@@ -215,8 +215,7 @@ description: ""
   font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B">Please forward the completed
   form to the school by closing date.</span></p>
   <p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#3B3A3B">&nbsp; &lt;&lt; File: Application Form for School Canteen
-  Stall.pdf&gt;&gt;</span></p>
+  color:#3B3A3B">&nbsp; &lt;&lt; [Application Form](/files/appexistingsch.pdf)</span></p>
   </td>
  </tr>
 </tbody></table>
