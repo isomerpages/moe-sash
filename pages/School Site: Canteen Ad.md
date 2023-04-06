@@ -4,7 +4,7 @@ permalink: /schsite-canteenad/
 description: ""
 ---
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 20.1pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
   <td width="301" style="width:225.4pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -228,4 +228,3 @@ description: ""
   </td>
  </tr>
 </tbody></table>
-
