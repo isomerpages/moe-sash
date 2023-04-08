@@ -32,7 +32,8 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#3B3A3B">&lt;&lt;school address&gt;&gt;<br>
-  <span style="background:whitesmoke">Tel No:&nbsp;&lt;&lt;school <span class="SpellE">tel</span> number&gt;&gt;</span></span></p>
+  <span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#3B3A3B">Tel No:&nbsp;&lt;&lt;school <span class="SpellE">tel</span> number&gt;&gt;</span></span></p>
   <p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#3B3A3B">Email: &lt;&lt;school email address&gt;&gt;</span></p>
   </td>
@@ -212,9 +213,7 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" style="margin-top:5.0pt;margin-right:0cm;margin-bottom:
   7.5pt;margin-left:0cm;text-align:justify"><span style="font-size:9.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B">Please forward the completed
-  form to the school by closing date.</span></p>
- [Application Form](/files/appexistingsch.pdf)<p></p>
+  font-family:&quot;Arial&quot;,sans-serif;color:#3B3A3B">Please forward the completed form (below) to the school by the closing date.</span></p>
   </td>
  </tr>
 </tbody></table>
