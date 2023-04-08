@@ -218,3 +218,5 @@ description: ""
   </td>
  </tr>
 </tbody></table>
+
+[Canteen Application Form](/files/appexistingsch.pdf)
