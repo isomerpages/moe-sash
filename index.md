@@ -12,7 +12,7 @@ sections:
   - infobar:
       title: School Canteen Advertisements
       button: More Details
-      url: /schbusads/
+      url: /schcanteenads/
   - infobar:
       title: School Bus Advertisements
       button: More Details
