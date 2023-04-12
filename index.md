@@ -8,20 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/bannerscas2.jpg
-      title: School Admin Services Hub
-      key_highlights:
-        - title: School Canteen Advertisements
-          description: ""
-          url: /schcanteenads/
-        - title: School Bus Advertisements
-          description: ""
-          url: /schbusads/
+      title: School Canteen and Bus Services
   - infobar:
-      title: School Canteen Selection Process
+      title: School Canteen Advertisements
       button: More Details
-      url: https://www.moe.gov.sg/canteens
+      url: /schbusads/
   - infobar:
-      title: School Bus Selection Process
+      title: School Bus Advertisements
       button: More Details
-      url: https://www.moe.gov.sg/school-bus-services
+      url: /schbusads/
 ---
