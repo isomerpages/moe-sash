@@ -12,15 +12,14 @@ description: ""
 
 **Application Procedure**
 
-1. Complete the application form.  
-The applic(at)ion form can be downloaded from the section below or you may get a hardcopy from the school’s General Office. [Application Form](/files/appexistingsch.pdf)
+1. Download and complete the [Application Form](/files/appexistingsch.pdf). You may also get a hardcopy from the School’s General Office.
 
-2. Attached the following documents together with the application:zz
+3. Attached the following documents together with the application:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
-* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+* Photocopy of relevant certificates such as basic food hygiene course, etc
 
-3. Submit the completed application form and document by closing date via email OR to the school’s General Office
+3. Submit the completed application form and document by closing date via email OR to the School’s General Office.
 
 * Address: 110 Woodlands Crescent S737803
 * Contact No: 63654490 
