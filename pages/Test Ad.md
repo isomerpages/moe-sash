@@ -33,3 +33,17 @@ Applicants should preferably fulfill the following criteria:
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
+Application Procedure
+
+1. Complete the application form.  
+The applic(at)ion form can be downloaded from the section below or you may get a hardcopy from the school’s General Office.
+[Application Form](/files/appexistingsch.pdf)
+
+2. Attached the following documents together with the application:
+* Photocopy of the NRIC (front and back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+
+3. Submit the completed application form and document by closing date via email OR to the school’s General Office
+
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
