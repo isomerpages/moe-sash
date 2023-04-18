@@ -13,11 +13,9 @@ description: ""
 **Application Procedure**
 
 1. Complete the application form.  
-The applic(at)ion form can be downloaded from the section below or you may get a hardcopy from the school’s General Office.
+The applic(at)ion form can be downloaded from the section below or you may get a hardcopy from the school’s General Office. [Application Form](/files/appexistingsch.pdf)
 
-[Application Form](/files/appexistingsch.pdf)
-
-2. Attached the following documents together with the application:
+2. Attached the following documents together with the application:zz
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
