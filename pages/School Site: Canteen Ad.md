@@ -12,6 +12,7 @@ description: ""
 | Western Food Stall | 15 Jul 2023 | NIL
 | Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | NIL |
 
+<br><br>
 **Application Procedure**
 
 1. Download and complete the [Application Form](/files/appexistingsch.pdf). You may also get a hardcopy from the School’s General Office.
