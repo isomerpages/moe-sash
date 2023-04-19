@@ -15,7 +15,7 @@ description: ""
 <br><br>
 **Application Procedure**
 
-1. Download and fill in the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 * [Application Form](/files/appexistingsch.pdf)
 
 2. Attached the following documents together with the application form:
