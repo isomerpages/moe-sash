@@ -14,7 +14,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Application Procedure**
 
-1. Complete the [ Call for Proposal - Annex A](/files/Test%20file.pdf).
+1. Complete the [Call for Proposal - Annex A](/files/Test%20file.pdf).
   	
 2. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023, via email OR to the School’s General Office.
 
@@ -26,4 +26,4 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **How to get there?**
 * Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 904 - 3 minutes walking distance.
+* Bus number: 904 - 3 minutes walking distance
