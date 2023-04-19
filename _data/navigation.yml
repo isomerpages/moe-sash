@@ -3,20 +3,22 @@ links:
   - title: School Canteen
     url: /schcanteenads/
     sublinks:
-      - title: Canteen Advertisements
+      - title: School Canteen Advertisements
         url: /schcanteenads/
       - title: Selection Criteria and Process
         url: https://www.moe.gov.sg/canteens
       - title: FAQ
         url: https://www.moe.gov.sg/faq?categoryid=8B49CE9A2D03495FB7AEF22762F0F579
-      - title: School Site - Canteen Ad
-        url: /schsite-canteenad/
+      - title: "- School Canteen Advertisement"
+        url: /schsite-schcanteenad/
   - title: School Bus
     url: /schbusads
     sublinks:
-      - title: Bus Advertisements
+      - title: School Bus Advertisements
         url: /schbusads/
       - title: Selection Criteria and FAQ
         url: https://www.moe.gov.sg/school-bus-services
-      - title: School Site - Bus Ad
-        url: /schsite-busad
+      - title: "- School Bus Advertisement"
+        url: /schsite-schbusad
+      - title: "- School Bus Service"
+        url: /schsite-schbusservice
