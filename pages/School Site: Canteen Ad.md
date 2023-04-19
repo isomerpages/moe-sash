@@ -7,8 +7,10 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chicken Rice     | 31 May 2023     | Applicants can be of any nationality     |
-| Malay Stall | 30 Jun 2023 | NIL
+| Chicken Rice     | 31 May 2023     | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.     |
+| Malay Food Stall | 30 Jun 2023 | NIL
+| Western Food Stall | 15 Jul 2023 | NIL
+| Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | NIL
 
 **Application Procedure**
 
