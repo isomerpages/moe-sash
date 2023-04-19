@@ -3,7 +3,7 @@ title: "School Site: School Canteen Advertisement"
 permalink: /schsite-schcanteenad/
 description: ""
 ---
-#### Canteen Stall Advertisement for Riverside Primary School
+#### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
