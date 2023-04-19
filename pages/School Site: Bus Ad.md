@@ -28,4 +28,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
 * Bus number: 904 - 3 minutes walking distance. 
 
-Awarded Bus Operator and Bus Fare Cap (suggest not to include here since there is a page for bus fare)
+---
+
+**Awarded Bus Operator Info** 
+
+*To be updated upon award*
