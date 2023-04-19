@@ -15,14 +15,15 @@ description: ""
 <br><br>
 **Application Procedure**
 
-1. Download and complete the [Application Form](/files/appexistingsch.pdf). You may also get a hardcopy from the School’s General Office.
+1. Download and fill in the application form. You may also request for a hardcopy from the School’s General Office.
+* [Application Form](/files/appexistingsch.pdf)
 
-3. Attached the following documents together with the application:
+2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
-* Photocopy of relevant certificates such as basic food hygiene course, etc
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and document by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: 110 Woodlands Crescent S737803
 * Contact No: 63654490
@@ -31,7 +32,7 @@ description: ""
 
 **How to get there?**
 * Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 904 - 3 minutes walking distance.
+* Bus number: 904 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
