@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: School Canteen and Bus Services
-      background: /images/sashisomer4.PNG
+      background: /images/sashisomer6.PNG
   - infobar:
       title: School Canteen Advertisements
       button: More Details
