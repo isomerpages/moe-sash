@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: School Admin Services Hub
+title: School Canteen and Bus Services
 description: An Isomer site of the Singapore Government
 image: /images/moe-logo.png
 permalink: /
