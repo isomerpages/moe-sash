@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bannerscas2.jpg
+      background: /images/moeinternet.svg
       title: School Canteen and Bus Services
   - infobar:
       title: School Canteen Advertisements
