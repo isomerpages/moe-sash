@@ -1,4 +1,9 @@
 show_reach: true
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/moesingapore
+  linkedin: https://www.linkedin.com/company/ministry-of-education-singapore/
+  twitter: https://twitter.com/MOEsg
+  youtube: https://www.youtube.com/user/MOESpore
+  instagram: https://www.instagram.com/moesingapore/
 contact_us: https://www.moe.gov.sg/contact-us/
 feedback: https://www.moe.gov.sg/feedback/
