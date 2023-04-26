@@ -4,7 +4,7 @@ permalink: /schsite-schcanteenad/
 description: ""
 ---
 #### School Canteen Advertisement
-
+<br><br>
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Chicken Rice     | 31 May 2023     | Mixed rice is acceptable.    |
@@ -12,6 +12,14 @@ description: ""
 | Western Food Stall | 15 Jul 2023 | NIL|
 | Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.  |
 
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Test     | Text ffd    | Testtest |
+| Test     | Text ffd    | Testtest |
+| Test     | Text ffd    | Testtest |
+| Test     | Text ffd    | Testtest |
 <br><br>
 **Application Procedure**
 
