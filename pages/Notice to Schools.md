@@ -3,7 +3,6 @@ title: Notice to Schools
 permalink: /schools/
 description: ""
 ---
-![s]()
 
 ## Sample School Sites
 * [Sample of School Canteen Ad](https://staging.d2rf20mnuqi9qi.amplifyapp.com/schsite-schcanteenad/)
