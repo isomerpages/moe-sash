@@ -4,7 +4,7 @@ permalink: /schsite-schcanteenad/
 description: ""
 ---
 #### School Canteen Advertisement
-<br><br>
+
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Chicken Rice     | 31 May 2023     | Mixed rice is acceptable.    |
