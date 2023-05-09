@@ -3,7 +3,7 @@ title: Canteen Application Details
 permalink: /schcanteenapplication/
 description: ""
 ---
-This is the general school canteen applicaiton details. Do check with the schools if they have other application details.
+This is the general school canteen application details. Do check with the school you're applying to if there are other requirements.
 
 **Application Procedure**
 
@@ -15,7 +15,7 @@ This is the general school canteen applicaiton details. Do check with the school
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via the school's email OR to the School's General Office.
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
