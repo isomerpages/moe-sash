@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: School Canteen and Bus Services
+      title: School Canteen and Admin Services
       background: /images/sashisomer72.PNG
   - infobar:
       title: School Canteen Advertisements
