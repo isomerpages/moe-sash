@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: School Canteen and Admin Services
+      title: SAS Isomer Central Site (SICS)
       background: /images/sashisomer72.PNG
   - infobar:
       title: School Canteen Advertisements
