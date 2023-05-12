@@ -27,10 +27,10 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: 110 Woodlands Crescent S737803
-* Contact No: 63654490
-* Email: riverside_ps@moe.edu.sg
-* Contact Person: Mdm Aminah Saad
+* Address: 
+* Contact No: 
+* Email: 
+* Contact Person: 
 
 **How to get there?**
 * Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
