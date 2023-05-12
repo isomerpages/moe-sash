@@ -3,6 +3,8 @@ title: "School Site: School Bus Advertisement"
 permalink: /schsite-schbusad/
 description: ""
 ---
+#### This page is a template for reference. Please do not refer to this page.
+
 #### School Bus Advertisement
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
@@ -16,12 +18,12 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Complete the [Call for Proposal - Annex A](/files/Test%20file.pdf).
   	
-2. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023, via email OR to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2024, via email OR to the School’s General Office.
 
-* Address: 110 Woodlands Crescent S737803
-* Contact No: 63654490 
-* Email: riverside_ps@moe.edu.sg
-* Contact Person: Mdm Aminah Saad
+* Address:
+* Contact No:
+* Email:
+* Contact Person:
 
 
 **How to get there?**
