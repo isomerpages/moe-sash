@@ -3,6 +3,8 @@ title: "School Site: School Canteen Advertisement"
 permalink: /schsite-schcanteenad/
 description: ""
 ---
+#### This page is a template for reference. Please do not refer to this page.
+
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
