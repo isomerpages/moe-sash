@@ -4,14 +4,10 @@ permalink: /applicationform1/
 description: ""
 ---
 # Important Notes
+1.	As announced  on 12th Jun 2023, to ease the bus driver shortage, MOE and MOM will allow school bus operators who have demonstrated efforts to recruit local bus drivers to be allocated additional foreign worker (FW) quota on a time-limited basis.
+2. Bus operators can apply to MOE for additional FW quotas starting from June 2023. The bus operators will be informed of the outcome of the application within a month from the time of the application. For the 1st batch, i.e., applications received in June 2023, MOE will inform the operators of the outcome by end July 2023.
+3. 
 
-1. This form is for bus operators to apply for additional foreign worker (FW) quota, which will be given on a 2-year time-limited basis.
-
-2. Bus operators are to complete this form and send it via email to [MOE\_IFSD\_SCD\_School\_Canteen\_Bus@moe.gov.sg](___mailto:MOE_IFSD_SCD_School_Canteen_Bus@moe.gov.sg).
-
-3. Bus operators are to provide relevant supporting documents. MOE may request for additional supporting documents from the bus operators. We may terminate the concession with immediate effect if bus operators provide false information.
-
-4. Bus operators undertake not to disclose the allocation approved.
 
 Link to download form:<br>
 [APPLICATION FORM FOR ADDITIONAL FOREIGN WORKER QUOTA FOR DRIVERS (Version 1)](https://go.gov.sg/application-form-for-additional-foreign-worker-quota-for-drivers-version1)
