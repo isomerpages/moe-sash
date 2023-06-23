@@ -16,4 +16,4 @@ description: ""
 * Bus operators are to provide relevant supporting documents. MOE may request for additional supporting documents from the bus operators. We may terminate the concession with immediate effect if bus operators provide false information.
 * Completed forms to be returned to MOE via email to MOE_IFSD_SCD_School_Bus_FWQApplication@moe.gov.sg
 
-<sup>1</sup> Refer to https://www.moe.gov.sg/news/press-releases/20230612-measures-to-ensure-a-sustainable-school-bus-service-mode for MOE press release on ‘Measures to Ensure a Sustainable School Bus Service Model’.
+<sup>1</sup> Refer to [https://www.moe.gov.sg/news/press-releases/20230612-measures-to-ensure-a-sustainable-school-bus-service-mode](https://www.moe.gov.sg/news/press-releases/20230612-measures-to-ensure-a-sustainable-school-bus-service-mode) for MOE press release on ‘Measures to Ensure a Sustainable School Bus Service Model’.
