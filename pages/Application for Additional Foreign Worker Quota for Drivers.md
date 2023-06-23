@@ -10,7 +10,7 @@ description: ""
 * Serve 2 or more MOE schools at the time of application. This includes operators who are not serving any school or only serving 1 school currently, but have secured more bus contracts and in all, will serve 2 or more MOE schools.
 * Implement initiatives to recruit local (including PR) bus drivers.
 4. All work passes will be valid for 2 years upon issuance by MOM.
-5. Bus operators must ensure that hte additional FW quota is only applicable to bus drivers.
+5. Bus operators must ensure that the additional FW quota is only applicable to bus drivers.
 6. Instructions for filling in the 'Application Form for Additional FW Quota for Drivers':
 * Download the application form from below link: [APPLICATION FORM FOR ADDITIONAL FOREIGN WORKER QUOTA FOR DRIVERS (Version 1.1)](https://go.gov.sg/application-form-for-additional-foreign-worker-quota-for-drivers-version1-1)
 * Bus operators are to provide relevant supporting documents. MOE may request for additional supporting documents from the bus operators. We may terminate the concession with immediate effect if bus operators provide false information.
