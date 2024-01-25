@@ -1,0 +1,22 @@
+logo: /images/moe-logo.png
+links:
+  - title: School Canteen
+    url: /schcanteenads/
+    sublinks:
+      - title: School Canteen Advertisements
+        url: /schcanteenads/
+      - title: Selection Criteria and Process
+        url: https://www.moe.gov.sg/canteens
+      - title: FAQ
+        url: https://www.moe.gov.sg/faq?categoryid=8B49CE9A2D03495FB7AEF22762F0F579
+  - title: School Bus
+    url: /schbusads
+    sublinks:
+      - title: School Bus Advertisements
+        url: /schbusads/
+      - title: School Bus Operators
+        url: /schbusoperators/
+      - title: Selection Criteria and FAQ
+        url: https://www.moe.gov.sg/school-bus-services
+      - title: Additional FW Quota
+        url: /applicationform1/
